@@ -7,7 +7,7 @@ Board Game Assignment
 Assignment 1 – AI Board Game Project
 
 
-## Chosen Game
+## Game Overview
 
 Add the name of your chosen board game here.
 
