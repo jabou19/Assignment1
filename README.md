@@ -98,13 +98,6 @@ python -m pytest tests
 
 The local `pre-push` hook and the GitHub Actions workflow both run `pytest` only when `tests/test_*.py` files exist.
 
-## GitHub Actions
-
-GitHub Actions runs on pushes and pull requests targeting `main` and performs:
-
-- Ruff lint checks
-- Ruff format checks
-- `pytest` when test files exist
 
 ## Folder Structure
 
