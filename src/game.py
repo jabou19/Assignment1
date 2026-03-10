@@ -12,7 +12,7 @@ Screen_size = Size * Tile_size + (Size + 1) * Gap_size + 2 * Margine
 Screen_width = Screen_size
 Screen_height = Screen_size
 Background_color = "#e5e5e0"
-EMPTY_TILE_COLOR = "#93908c00" # it is not used.
+EMPTY_TILE_COLOR = "#93908c00" 
 Tile_colors = {
     2: "#f8f8f5c1",
     4: "#f0be95",
