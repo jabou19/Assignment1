@@ -17,7 +17,8 @@ Update these steps to match your implementation.
 
 1. Open the project folder in VS Code.
 2. Make sure Python is installed.
-3. Run the main program from the `src` folder.
+3. Install dependencies with `pip install -e .`.
+4. Run the main program from the `src` folder.
 
 Example:
 
